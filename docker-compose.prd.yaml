@@ -1,0 +1,12 @@
+version: "3.5"
+
+services:
+  api:
+    build: .
+    restart: unless-stopped
+    networks:
+      - app-network
+    ports:
+      - "5054-5055:5054"
+networks:
+  app-network:
