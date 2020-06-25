@@ -8,7 +8,7 @@
 
 > Simple crawler and Api that tracks corona cases in morocco each time someone makes a GET request
 
-### ✨ [Demo](covid.game-linter.com)
+### ✨ [Demo](https://covid.game-linter.com)
 
 ## Install
 
