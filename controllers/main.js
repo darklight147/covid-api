@@ -33,7 +33,7 @@ exports.index = (req, ress) => {
                     }
                 }
             }
-            element.label = !index ? "Total Corona cases": index === 1 ? "Total deceased" : "Total recovered"
+            element.label = !index ? "Total Corona cases": index === 1 ? "Total deceased" : "Total recovered "
             
             data.push(element)
         }
