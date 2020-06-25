@@ -6,7 +6,7 @@
   </a>
 </p>
 
-> Simple crawler and Api that tracks corona cases in morocco each time someone makes a GET request
+> Simple crawler and REST Api that tracks corona cases in desired country each time someone makes a GET request
 
 ### ✨ [Demo](https://covid.game-linter.com)
 
