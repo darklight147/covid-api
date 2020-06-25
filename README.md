@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to covid-api 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-2.0.0-blue.svg?cacheSeconds=2592000" />
-  <a href="https://github.com/darklight147/covid-api/blob/master/README.md" target="_blank">
+  <a href="https://github.com/darklight147/covid-api/blob/master/LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
 </p>
