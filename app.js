@@ -18,5 +18,5 @@ app.use(bodyParser.json())
 app.use(bodyParser.urlencoded({
     extended: true
 }))
-app.listen(port, () => console.log("listening" + " http://localhost:" + port));
+app.listen(port, () => console.log("listening" + " http://localhost:5054/api" + port));
 app.get("/api", homeControl.index);
