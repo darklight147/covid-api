@@ -4,6 +4,9 @@
   <a href="https://github.com/darklight147/covid-api/blob/master/LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
+  
+  <img alt="License: MIT" src="https://travis-ci.org/darklight147/covid-api.svg?branch=master" />
+  </a>
 </p>
 
 > Simple crawler and REST Api that tracks corona cases in desired country each time someone makes a GET request
