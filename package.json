@@ -6,7 +6,7 @@
   "scripts":{
       "start": "node app.js",
       "deploy": "cd client/ && sudo npm run build && cd .. && sudo pm2 reload covid",
-      "test": "echo "Tests are comming""
+      "test": "echo \"Tests are comming\""
   },
   "author": "Mohamed Belkamel",
   "license": "MIT",
