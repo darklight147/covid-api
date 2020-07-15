@@ -5,7 +5,7 @@
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
   
-  <img alt="License: MIT" src="https://travis-ci.org/darklight147/covid-api.svg?branch=master" />
+  <img alt="BUILD" src="https://travis-ci.org/darklight147/covid-api.svg?branch=master" />
   </a>
 </p>
 
